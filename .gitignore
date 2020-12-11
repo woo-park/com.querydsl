@@ -1,2 +1,11 @@
 # Project exclude paths
 /.gradle/
+
+# custom added
+.gradle
+.idea
+
+
+application-oauth.properties
+application-google.properties
+application-oauth.yml
