@@ -6,6 +6,9 @@
 .idea
 .build
 
+/build/
+
+generated
 
 application-oauth.properties
 application-google.properties
