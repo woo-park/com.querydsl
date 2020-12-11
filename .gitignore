@@ -4,7 +4,7 @@
 # custom added
 .gradle
 .idea
-
+.build
 
 application-oauth.properties
 application-google.properties
